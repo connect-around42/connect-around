@@ -1,0 +1,20 @@
+{
+  "name": "connect-around",
+  "version": "1.0.0",
+  "description": "Connect Around - A simple web application",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
